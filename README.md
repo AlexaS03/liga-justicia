@@ -19,6 +19,7 @@ Textos conmutativos. Aquellos que le imparten instrucciones precisas al lector, 
 
 - Textos poéticos o lúdicos. Aquellos cuyo sentido está en la contemplación de la belleza o el ingenio con que fueron escritos, es decir, apelando al sentido lúdico o estético del lector. Por ejemplo: un poema, una obra literaria, una adivinanza.
 
+
 ## Cambios desde Github
 De modo que un texto viene a ser una cantidad de enunciados hilados entre sí y ordenados en base a un argumento (explicativo, narrativo, descriptivo, etc.), empleando para ello un sistema concreto de signos, que llamaremos lenguaje, y dentro de dicho sistema un código concreto que llamaremos lengua.
 
@@ -35,5 +36,7 @@ Textos conmutativos. Aquellos que le imparten instrucciones precisas al lector, 
 ## Cambios nuevos:
 
 Se entiende por texto una composición ordenada de signos inscritos en un sistema de escritura, cuya lectura permite recobrar un sentido específico referido por el emisor. La palabra texto proviene del latín textus, que significa “tejido” o “entrelazado”, de modo que en el origen mismo de la idea del texto se encuentra su capacidad para contener ideas en un hilo o una secuencia de caracteres.
+
+## Para Cesar
 
 
